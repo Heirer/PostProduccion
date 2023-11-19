@@ -2,3 +2,5 @@
 * text=auto
 git lfs track "*.psd" "*.aep" "*.exr" "*.mov"
 git add .gitattributes
+
+git lfs migrate
